@@ -6,3 +6,6 @@ https://www.hackerrank.com/contests/mountblue-technologies/challenges/between-tw
 
 Problem-9: Super Reduced String
 https://www.hackerrank.com/contests/mountblue-technologies/challenges/reduced-string/
+
+Problem-10: Bon Appetit
+https://www.hackerrank.com/contests/mountblue-technologies/challenges/bon-appetit/
