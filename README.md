@@ -6,7 +6,7 @@ I solve a batch of problems each day and commit them day by day, so the repo dou
 
 ## Progress
 
-**10 / 120 solved** (Day 1 – Day 2)
+**13 / 120 solved**
 
 ## Folder structure
 

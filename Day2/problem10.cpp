@@ -1,4 +1,4 @@
-// Bon Appetit
+// Bill Division
 
 // Only solution function is provided below
 /*
