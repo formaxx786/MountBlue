@@ -22,10 +22,15 @@ MountBlue/
 │   ├── problem7.cpp
 │   ├── problem8.cpp
 │   └── ...
+├── Day3/
+│   ├── ProblemLinks.md
+│   ├── problem11.cpp
+│   ├── problem12.cpp
+│   └── ...
 └── README.md
 ```
 
-Each day gets its own folder, with one `.cpp` file per problem and a `ProblemLinks.md` listing that day's problem names and their HackerRank links. Problem numbers run continuously across days (Day 1 has problems 1–6, Day 2 has 7–10, and so on), and every file starts with a comment naming the problem it solves.
+Each day gets its own folder, with one `.cpp` file per problem and a `ProblemLinks.md` listing that day's problem names and their HackerRank links. Problem numbers run continuously across days (Day 1 has problems 1–6, Day 2 has 7–10, Day 3 has 11–13, and so on), and every file starts with a comment naming the problem it solves.
 
 ## Running a solution
 
