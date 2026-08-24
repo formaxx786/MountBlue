@@ -6,7 +6,7 @@ I solve a batch of problems each day and commit them day by day, so the repo dou
 
 ## Progress
 
-**25 / 120 solved**
+**28 / 120 solved**
 
 ## Folder structure
 
@@ -42,10 +42,15 @@ MountBlue/
 │   ├── problem23.cpp
 │   ├── problem24.cpp
 │   └── ...
+├── Day7/
+│   ├── ProblemLinks.md
+│   ├── problem26.cpp
+│   ├── problem27.cpp
+│   └── ...
 └── README.md
 ```
 
-Each day gets its own folder, with one `.cpp` file per problem and a `ProblemLinks.md` listing that day's problem names and their HackerRank links. Problem numbers run continuously across days (Day 1 has problems 1–6, Day 2 has 7–10, Day 3 has 11–13, Day 4 has 14–19, Day 5 has 20–22, Day 6 has 23–25, and so on), and every file starts with a comment naming the problem it solves.
+Each day gets its own folder, with one `.cpp` file per problem and a `ProblemLinks.md` listing that day's problem names and their HackerRank links. Problem numbers run continuously across days (Day 1 has problems 1–6, Day 2 has 7–10, Day 3 has 11–13, Day 4 has 14–19, Day 5 has 20–22, Day 6 has 23–25, Day 7 has 26–28, and so on), and every file starts with a comment naming the problem it solves.
 
 ## Running a solution
 
