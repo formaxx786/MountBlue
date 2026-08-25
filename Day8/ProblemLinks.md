@@ -7,4 +7,5 @@ https://www.hackerrank.com/contests/mountblue-technologies/challenges/mars-explo
 Problem-31: Electronics Shop
 https://www.hackerrank.com/contests/mountblue-technologies/challenges/electronics-shop/
 
-Problem-32: 
+Problem-32: Viral Advertising
+https://www.hackerrank.com/contests/mountblue-technologies/challenges/strange-advertising/
